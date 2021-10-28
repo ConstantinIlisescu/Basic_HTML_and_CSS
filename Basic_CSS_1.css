@@ -1,0 +1,18 @@
+  .font_1 {
+    background-color: black;
+    color: yellow;
+    font-size: large;
+  }
+
+  .font_2 {
+    background-color: darkblue;
+    color: white;
+    font-size: medium;
+  }
+
+  .My_Personal_style {
+    background-color: black;
+    color: yellow;
+    text-shadow: 2px 4px 4px white;
+    font-size: 50px;
+  }
